@@ -1,0 +1,10 @@
+C:\Users\Iago\source\repos\NET_Ahorcado\obj\Debug\Net_TresEnRaya.frmMain.resources
+C:\Users\Iago\source\repos\NET_Ahorcado\obj\Debug\NET_TresEnRaya.csproj.GenerateResource.cache
+C:\Users\Iago\source\repos\NET_Ahorcado\obj\Debug\NET_TresEnRaya.csproj.CoreCompileInputs.cache
+C:\Users\Iago\source\repos\NET_Ahorcado\obj\Debug\NET_TresEnRaya.csprojAssemblyReference.cache
+C:\Users\Iago\source\repos\NET_Ahorcado\bin\Debug\NET_TresEnRaya.exe.config
+C:\Users\Iago\source\repos\NET_Ahorcado\bin\Debug\NET_TresEnRaya.exe
+C:\Users\Iago\source\repos\NET_Ahorcado\bin\Debug\NET_TresEnRaya.pdb
+C:\Users\Iago\source\repos\NET_Ahorcado\obj\Debug\NET_TresEnRaya.Properties.Resources.resources
+C:\Users\Iago\source\repos\NET_Ahorcado\obj\Debug\NET_TresEnRaya.exe
+C:\Users\Iago\source\repos\NET_Ahorcado\obj\Debug\NET_TresEnRaya.pdb

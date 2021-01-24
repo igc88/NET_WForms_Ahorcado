@@ -1,0 +1,10 @@
+C:\Users\Iago\source\repos\NET_Ahorcado\bin\Debug\NET_Ahorcado.exe.config
+C:\Users\Iago\source\repos\NET_Ahorcado\bin\Debug\NET_Ahorcado.exe
+C:\Users\Iago\source\repos\NET_Ahorcado\bin\Debug\NET_Ahorcado.pdb
+C:\Users\Iago\source\repos\NET_Ahorcado\obj\Debug\NET_Ahorcado.csprojAssemblyReference.cache
+C:\Users\Iago\source\repos\NET_Ahorcado\obj\Debug\NET_Ahorcado.Properties.Resources.resources
+C:\Users\Iago\source\repos\NET_Ahorcado\obj\Debug\NET_Ahorcado.csproj.GenerateResource.cache
+C:\Users\Iago\source\repos\NET_Ahorcado\obj\Debug\NET_Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\Iago\source\repos\NET_Ahorcado\obj\Debug\NET_Ahorcado.exe
+C:\Users\Iago\source\repos\NET_Ahorcado\obj\Debug\NET_Ahorcado.pdb
+C:\Users\Iago\source\repos\NET_Ahorcado\obj\Debug\NET_Ahorcado.frmMain.resources
