@@ -1,0 +1,10 @@
+C:\Users\viiksen\Documents\curso NET\Games\Tres_en_Raya\Tres_en_Raya\bin\Debug\Tres_en_Raya.exe.config
+C:\Users\viiksen\Documents\curso NET\Games\Tres_en_Raya\Tres_en_Raya\bin\Debug\Tres_en_Raya.exe
+C:\Users\viiksen\Documents\curso NET\Games\Tres_en_Raya\Tres_en_Raya\bin\Debug\Tres_en_Raya.pdb
+C:\Users\viiksen\Documents\curso NET\Games\Tres_en_Raya\Tres_en_Raya\obj\Debug\Tres_en_Raya.csprojAssemblyReference.cache
+C:\Users\viiksen\Documents\curso NET\Games\Tres_en_Raya\Tres_en_Raya\obj\Debug\Tres_en_Raya.Form1.resources
+C:\Users\viiksen\Documents\curso NET\Games\Tres_en_Raya\Tres_en_Raya\obj\Debug\Tres_en_Raya.Properties.Resources.resources
+C:\Users\viiksen\Documents\curso NET\Games\Tres_en_Raya\Tres_en_Raya\obj\Debug\Tres_en_Raya.csproj.GenerateResource.cache
+C:\Users\viiksen\Documents\curso NET\Games\Tres_en_Raya\Tres_en_Raya\obj\Debug\Tres_en_Raya.csproj.CoreCompileInputs.cache
+C:\Users\viiksen\Documents\curso NET\Games\Tres_en_Raya\Tres_en_Raya\obj\Debug\Tres_en_Raya.exe
+C:\Users\viiksen\Documents\curso NET\Games\Tres_en_Raya\Tres_en_Raya\obj\Debug\Tres_en_Raya.pdb
