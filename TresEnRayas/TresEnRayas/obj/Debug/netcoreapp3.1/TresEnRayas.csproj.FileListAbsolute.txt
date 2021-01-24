@@ -1,0 +1,15 @@
+C:\Users\wendy\source\repos\TresEnRayas\TresEnRayas\bin\Debug\netcoreapp3.1\TresEnRayas.exe
+C:\Users\wendy\source\repos\TresEnRayas\TresEnRayas\bin\Debug\netcoreapp3.1\TresEnRayas.deps.json
+C:\Users\wendy\source\repos\TresEnRayas\TresEnRayas\bin\Debug\netcoreapp3.1\TresEnRayas.runtimeconfig.json
+C:\Users\wendy\source\repos\TresEnRayas\TresEnRayas\bin\Debug\netcoreapp3.1\TresEnRayas.runtimeconfig.dev.json
+C:\Users\wendy\source\repos\TresEnRayas\TresEnRayas\bin\Debug\netcoreapp3.1\TresEnRayas.dll
+C:\Users\wendy\source\repos\TresEnRayas\TresEnRayas\bin\Debug\netcoreapp3.1\TresEnRayas.pdb
+C:\Users\wendy\source\repos\TresEnRayas\TresEnRayas\obj\Debug\netcoreapp3.1\TresEnRayas.Form1.resources
+C:\Users\wendy\source\repos\TresEnRayas\TresEnRayas\obj\Debug\netcoreapp3.1\TresEnRayas.Properties.Resources.resources
+C:\Users\wendy\source\repos\TresEnRayas\TresEnRayas\obj\Debug\netcoreapp3.1\TresEnRayas.csproj.GenerateResource.cache
+C:\Users\wendy\source\repos\TresEnRayas\TresEnRayas\obj\Debug\netcoreapp3.1\TresEnRayas.AssemblyInfoInputs.cache
+C:\Users\wendy\source\repos\TresEnRayas\TresEnRayas\obj\Debug\netcoreapp3.1\TresEnRayas.AssemblyInfo.cs
+C:\Users\wendy\source\repos\TresEnRayas\TresEnRayas\obj\Debug\netcoreapp3.1\TresEnRayas.csproj.CoreCompileInputs.cache
+C:\Users\wendy\source\repos\TresEnRayas\TresEnRayas\obj\Debug\netcoreapp3.1\TresEnRayas.dll
+C:\Users\wendy\source\repos\TresEnRayas\TresEnRayas\obj\Debug\netcoreapp3.1\TresEnRayas.pdb
+C:\Users\wendy\source\repos\TresEnRayas\TresEnRayas\obj\Debug\netcoreapp3.1\TresEnRayas.genruntimeconfig.cache
