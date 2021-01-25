@@ -361,6 +361,7 @@ namespace Net_TresEnRaya {
             this.MinimizeBox = false;
             this.MinimumSize = new System.Drawing.Size(800, 420);
             this.Name = "frmMain";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
             this.Text = "Tres en Raya";
             this.pnlPuntuaciones.ResumeLayout(false);
             this.pnlPuntuaciones.PerformLayout();
