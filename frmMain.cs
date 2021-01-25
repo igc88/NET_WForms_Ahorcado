@@ -64,12 +64,14 @@ namespace Net_TresEnRaya {
                         }
                     }
 
+                    // 00 11 22
                     if (i == j) {
                         if (tablero[i, j] == turno) {
                             numFichasDiagonal++;
                         }
                     }
 
+                    // 02 11 20
                     if ((i + j) == 2) {
                         if (tablero[i, j] == turno) {
                             numFichasDiagonalInversa++;
@@ -81,10 +83,9 @@ namespace Net_TresEnRaya {
             if (numFichasHorizontal == 3 || numFichasVertical == 3 || numFichasDiagonal == 3 || numFichasDiagonalInversa == 3) {
                 MessageBox.Show("Gana " + jActivo.Nombre);
 
-                Application.Restart();
+                //Application.Restart();
             }
         }
-
         private void GestionTurno(bool primerTurno = false) {
             if (!primerTurno) {
                 turno = turno == 1 ? 2 : 1;
@@ -99,6 +100,9 @@ namespace Net_TresEnRaya {
             }
         }
         private void JugarCPU() {
+            Thread.Sleep(1000);
+            Refresh();
+
             Random rnd = new Random();
 
             Label Casilla = null;
@@ -170,4 +174,3 @@ namespace Net_TresEnRaya {
         }
     }
 }
-
