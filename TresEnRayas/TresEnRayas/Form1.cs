@@ -182,5 +182,6 @@ namespace TresEnRayas
             if (!Jugando) IniciarJuego();
             else FinalizarJuego();
         }
+
     }
 }
