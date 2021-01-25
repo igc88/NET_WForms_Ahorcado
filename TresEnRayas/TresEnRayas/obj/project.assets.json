@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wendy\\source\\repos\\TresEnRayas\\TresEnRayas\\TresEnRayas.csproj",
+      "projectUniqueName": "C:\\Users\\wendy\\Documents\\GitHub\\NET_WForms_TresEnRaya\\TresEnRayas\\TresEnRayas\\TresEnRayas.csproj",
       "projectName": "TresEnRayas",
-      "projectPath": "C:\\Users\\wendy\\source\\repos\\TresEnRayas\\TresEnRayas\\TresEnRayas.csproj",
+      "projectPath": "C:\\Users\\wendy\\Documents\\GitHub\\NET_WForms_TresEnRaya\\TresEnRayas\\TresEnRayas\\TresEnRayas.csproj",
       "packagesPath": "C:\\Users\\wendy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wendy\\source\\repos\\TresEnRayas\\TresEnRayas\\obj\\",
+      "outputPath": "C:\\Users\\wendy\\Documents\\GitHub\\NET_WForms_TresEnRaya\\TresEnRayas\\TresEnRayas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wendy\\AppData\\Roaming\\NuGet\\NuGet.Config",
